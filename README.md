@@ -64,21 +64,6 @@ End-to-end testing project including:
 - 💼 LinkedIn: https://www.linkedin.com/in/veronica-herreragallardo/
 - 📫 Open to collaboration, QA projects, and new opportunities
 
-- <hr width="100%">
-
-<p align="center">
-  <a href="#readme"><img src="./graphics/sneakyb.svg" alt=""><img src="./graphics/summary.svg" alt=""><img src="./graphics/sneakyb.svg" alt=""><img src="./graphics/languages.svg" alt=""></a>
-</p>
-
-<br><br>
-<p>
-  <a href="#readme"><img align="right" valign="bottom" src="./graphics/manasesjesus-stats.svg" alt="manasesjesus" width="100"></a>
-</p>
-<section data-footnotes="">
-  <a href="#readme"><img src="./graphics/octicon-info.svg" alt="info" width="11"></a>
-  This README is optimized for GitHub Light/Dark themes as well as Light/Dark OS modes, and it's also mobile friendly.
-</section>
-
 ---
 
 ⭐ Feel free to explore my repositories and reach out if you'd like to collaborate!
