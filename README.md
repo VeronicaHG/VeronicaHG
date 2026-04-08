@@ -16,12 +16,20 @@
 
 ## 🛠️ Tech Stack
 
-- **Automation:** Playwright, Cypress  
-- **Languages:** JavaScript, TypeScript  
-- **API Testing:** Postman, REST APIs  
-- **Testing Types:** E2E, UI, exploratory testing, validation testing  
-- **Tools:** GitHub, Git, Jira, Xray  
-- **Other:** Basic SQL, CI/CD concepts  
+
+### Automation
+![Playwright](https://img.shields.io/badge/Playwright-2EAD33?logo=playwright&logoColor=white)
+![Cypress](https://img.shields.io/badge/Cypress-17202C?logo=cypress&logoColor=white)
+
+### Languages
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white)
+
+### API & Tools
+![Postman](https://img.shields.io/badge/Postman-FF6C37?logo=postman&logoColor=white)
+![Jira](https://img.shields.io/badge/Jira-0052CC?logo=jira&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white) 
 
 ---
 
